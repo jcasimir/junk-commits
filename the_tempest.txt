@@ -114,3 +114,4 @@ dry death.    [_Exeunt._                                            65
   65: [Exeunt] [Exit F1, om. F2 F3 F4.]
 
 SCENE II. _The island. Before PROSPERO’S cell._
+  _Enter PROSPERO and MIRANDA._
