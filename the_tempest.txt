@@ -588,3 +588,4 @@ No, it begins again.                                               395
 _ARIEL sings._
     Full fathom five thy father lies;
         Of his bones are coral made;
+    Those are pearls that were his eyes:
