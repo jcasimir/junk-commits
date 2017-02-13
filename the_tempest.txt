@@ -1,0 +1,285 @@
+The Project Gutenberg EBook of The Tempest, by William Shakespeare
+THE TEMPEST.
+
+
+ACT I.
+
+SCENE I. _On a ship at sea: a tempestuous noise of thunder
+and lightning heard._
+  _Enter _a Ship-Master_ and _a Boatswain_._
+_Mast._ Boatswain!
+_Boats._ Here, master: what cheer?
+_Mast._ Good, speak to the mariners: fall to’t, yarely, or
+we run ourselves aground: bestir, bestir.    [_Exit._
+  _Enter _Mariners_._
+_Boats._ Heigh, my hearts! cheerly, cheerly, my hearts!              5
+yare, yare! Take in the topsail. Tend to the master’s
+whistle. Blow, till thou burst thy wind, if room enough!
+  _Enter ALONSO, SEBASTIAN, ANTONIO, FERDINAND, GONZALO,
+  and others._
+_Alon._ Good boatswain, have care. Where’s the master?
+Play the men.
+_Boats._ I pray now, keep below.                                    10
+_Ant._ Where is the master, boatswain?
+_Boats._ Do you not hear him? You mar our labour:
+keep your cabins: you do assist the storm.
+_Gon._ Nay, good, be patient.
+_Boats._ When the sea is. Hence! What cares these                   15
+roarers for the name of king? To cabin: silence! trouble
+us not.
+_Gon._ Good, yet remember whom thou hast aboard.
+_Boats._ None that I more love than myself. You are a
+Counsellor; if you can command these elements to silence,           20
+and work the peace of the present, we will not hand a rope
+more; use your authority: if you cannot, give thanks you
+have lived so long, and make yourself ready in your cabin
+for the mischance of the hour, if it so hap. Cheerly, good
+hearts! Out of our way, I say.    [_Exit._                          25
+_Gon._ I have great comfort from this fellow: methinks
+he hath no drowning mark upon him; his complexion is
+perfect gallows. Stand fast, good Fate, to his hanging:
+make the rope of his destiny our cable, for our own doth
+little advantage. If he be not born to be hanged, our case          30
+is miserable.    [_Exeunt._
+  _Re-enter Boatswain._
+_Boats._ Down with the topmast! yare! lower, lower!
+Bring her to try with main-course. [_A cry within._] A
+plague upon this howling! they are louder than the weather
+or our office.                                                      35
+  _Re-enter SEBASTIAN, ANTONIO, and GONZALO._
+Yet again! what do you here? Shall we give o’er, and
+drown? Have you a mind to sink?
+_Seb._ A pox o’ your throat, you bawling, blasphemous,
+incharitable dog!
+_Boats._ Work you, then.                                            40
+_Ant._ Hang, cur! hang, you whoreson, insolent noise-maker.
+We are less afraid to be drowned than thou art.
+_Gon._ I’ll warrant him for drowning; though the ship
+were no stronger than a nutshell, and as leaky as an unstanched
+wench.                                                              45
+_Boats._ Lay her a-hold, a-hold! set her two courses off
+to sea again; lay her off.
+  _Enter _Mariners_ wet._
+_Mariners._ All lost! to prayers, to prayers! all lost!
+_Boats._ What, must our mouths be cold?
+_Gon._ The king and prince at prayers! let’s assist them,           50
+For our case is as theirs.
+_Seb._                   I’m out of patience.
+_Ant._ We are merely cheated of our lives by drunkards:
+This wide-chapp’d rascal,--would thou mightst lie drowning
+The washing of ten tides!
+_Gon._                  He’ll be hang’d yet,
+Though every drop of water swear against it,                        55
+And gape at widest to glut him.
+  [_A confused noise within:_ “Mercy on us!”--
+  “We split, we split!”-- “Farewell my wife and children!”--
+  “Farewell, brother!”-- “We split, we split, we split!”]
+_Ant._ Let’s all sink with the king.                                60
+_Seb._ Let’s take leave of him. [_Exeunt Ant. and Seb._
+_Gon._ Now would I give a thousand furlongs of sea for
+an acre of barren ground, long heath, brown furze, any
+thing. The wills above be done! but I would fain die a
+dry death.    [_Exeunt._                                            65
+
+  Notes: I, 1.
+  SC. I. On a ship at sea] Pope.
+  Enter ... Boatswain] Collier MS. adds ‘shaking off wet.’
+  3: _Good,_] Rowe. _Good:_ Ff. _Good._ Collier.
+  7: _till thou burst thy wind_] _till thou burst, wind_ Johnson conj.
+    _till thou burst thee, wind_ Steevens conj.
+  8: Capell adds stage direction [Exeunt Mariners aloft.
+  11: _boatswain_] Pope. _boson_ Ff.
+  11-18: Verse. S. Walker conj.
+  15: _cares_] _care_ Rowe. See note (I).
+  31:  [Exeunt] Theobald. [Exit. Ff.
+  33: _Bring her to try_] F4. _Bring her to Try_ F1 F2 F3.
+    _Bring her to. Try_ Story conj.
+  33-35: Text as in Capell. _A plague_--A cry within. Enter Sebastian,
+    Anthonio, and Gonzalo. _upon this howling._ Ff.
+  34-37: Verse. S. Walker conj.
+  43: _for_] _from_ Theobald.
+  46: _two courses off to sea_] _two courses; off to sea_ Steevens
+    (Holt conj.).
+  46: [Enter...] [Re-enter... Dyce.
+  47: [Exeunt. Theobald.
+  50: _at_] _are at_ Rowe.
+  50-54: Printed as prose in Ff.
+  56: _to glut_] _t’ englut_ Johnson conj.
+  57: See note (II).
+  59: _Farewell, brother!_] _Brother, farewell!_ Theobald.
+  60: _with the_] Rowe. _with’_ F1 F2. _with_ F3 F4.
+  61: [Exeunt A. and S.] [Exit. Ff.
+  63: _furze_ Rowe. _firrs_ F1 F2 F3. _firs_ F4.
+  _long heath, brown furze_] _ling, heath, broom, furze_ Hanmer.]
+  65: [Exeunt] [Exit F1, om. F2 F3 F4.]
+
+SCENE II. _The island. Before PROSPERO’S cell._
+  _Enter PROSPERO and MIRANDA._
+_Mir._ If by your art, my dearest father, you have
+Put the wild waters in this roar, allay them.
+The sky, it seems, would pour down stinking pitch,
+But that the sea, mounting to the welkin’s cheek,
+Dashes the fire out. O, I have suffer’d                              5
+With those that I saw suffer! a brave vessel,
+Who had, no doubt, some noble creature in her,
+Dash’d all to pieces. O, the cry did knock
+Against my very heart! Poor souls, they perish’d!
+Had I been any god of power, I would                                10
+Have sunk the sea within the earth, or ere
+It should the good ship so have swallow’d and
+The fraughting souls within her.
+_Pros._                        Be collected:
+No more amazement: tell your piteous heart
+There’s no harm done.
+_Mir._              O, woe the day!
+_Pros._                           No harm.                          15
+I have done nothing but in care of thee,
+Of thee, my dear one, thee, my daughter, who
+Art ignorant of what thou art, nought knowing
+Of whence I am, nor that I am more better
+Than Prospero, master of a full poor cell,                          20
+And thy no greater father.
+_Mir._                   More to know
+Did never meddle with my thoughts.
+_Pros._                          ’Tis time
+I should inform thee farther. Lend thy hand,
+And pluck my magic garment from me. --So:
+                                [_Lays down his mantle._
+Lie there, my art. Wipe thou thine eyes; have comfort.              25
+The direful spectacle of the wreck, which touch’d
+The very virtue of compassion in thee,
+I have with such provision in mine art
+So safely order’d, that there is no soul,
+No, not so much perdition as an hair                                30
+Betid to any creature in the vessel
+Which thou heard’st cry, which thou saw’st sink. Sit down;
+For thou must now know farther.
+_Mir._                        You have often
+Begun to tell me what I am; but stopp’d,
+And left me to a bootless inquisition,                              35
+Concluding “Stay: not yet.”
+_Pros._                The hour’s now come;
+The very minute bids thee ope thine ear;
+Obey, and be attentive. Canst thou remember
+A time before we came unto this cell?
+I do not think thou canst, for then thou wast not                   40
+Out three years old.
+_Mir._             Certainly, sir, I can.
+_Pros._ By what? by any other house or person?
+Of any thing the image tell me that
+Hath kept with thy remembrance.
+_Mir._                        ’Tis far off,
+And rather like a dream than an assurance                           45
+That my remembrance warrants. Had I not
+Four or five women once that tended me?
+_Pros._ Thou hadst, and more, Miranda. But how is it
+That this lives in thy mind? What seest thou else
+In the dark backward and abysm of time?                             50
+If thou remember’st ought ere thou camest here,
+How thou camest here thou mayst.
+_Mir._                         But that I do not.
+_Pros._ Twelve year since, Miranda, twelve year since,
+Thy father was the Duke of Milan, and
+A prince of power.
+_Mir._           Sir, are not you my father?                        55
+_Pros._ Thy mother was a piece of virtue, and
+She said thou wast my daughter; and thy father
+Was Duke of Milan; and his only heir
+And princess, no worse issued.
+_Mir._                       O the heavens!
+What foul play had we, that we came from thence?                    60
+Or blessed was’t we did?
+_Pros._                Both, both, my girl:
+By foul play, as thou say’st, were we heaved thence;
+But blessedly holp hither.
+_Mir._                   O, my heart bleeds
+To think o’ the teen that I have turn’d you to.
+Which is from my remembrance! Please you, farther.                  65
+_Pros._ My brother, and thy uncle, call’d Antonio,--
+I pray thee, mark me,--that a brother should
+Be so perfidious!--he whom, next thyself,
+Of all the world I loved, and to him put
+The manage of my state; as, at that time,                           70
+Through all the signories it was the first,
+And Prospero the prime duke, being so reputed
+In dignity, and for the liberal arts
+Without a parallel; those being all my study,
+The government I cast upon my brother,                              75
+And to my state grew stranger, being transported
+And rapt in secret studies. Thy false uncle--
+Dost thou attend me?
+_Mir._             Sir, most heedfully.
+_Pros._ Being once perfected how to grant suits,
+How to deny them, whom to advance, and whom                         80
+To trash for over-topping, new created
+The creatures that were mine, I say, or changed ’em,
+Or else new form’d ’em; having both the key
+Of officer and office, set all hearts i’ the state
+To what tune pleased his ear; that now he was                       85
+The ivy which had hid my princely trunk,
+And suck’d my verdure out on’t. Thou attend’st not.
+_Mir._ O, good sir, I do.
+_Pros._                 I pray thee, mark me.
+I, thus neglecting worldly ends, all dedicated
+To closeness and the bettering of my mind                           90
+With that which, but by being so retired,
+O’er-prized all popular rate, in my false brother
+Awaked an evil nature; and my trust,
+Like a good parent, did beget of him
+A falsehood in its contrary, as great                               95
+As my trust was; which had indeed no limit,
+A confidence sans bound. He being thus lorded,
+Not only with what my revenue yielded,
+But what my power might else exact, like one
+Who having into truth, by telling of it,                           100
+Made such a sinner of his memory,
+To credit his own lie, he did believe
+He was indeed the duke; out o’ the substitution,
+And executing the outward face of royalty,
+With all prerogative:--hence his ambition growing,--               105
+Dost thou hear?
+_Mir._        Your tale, sir, would cure deafness.
+_Pros._ To have no screen between this part he play’d
+And him he play’d it for, he needs will be
+Absolute Milan. Me, poor man, my library
+Was dukedom large enough: of temporal royalties                    110
+He thinks me now incapable; confederates,
+So dry he was for sway, wi’ the King of Naples
+To give him annual tribute, do him homage,
+Subject his coronet to his crown, and bend
+The dukedom, yet unbow’d,--alas, poor Milan!--                     115
+To most ignoble stooping.
+_Mir._                  O the heavens!
+_Pros._ Mark his condition, and th’ event; then tell me
+If this might be a brother.
+_Mir._                    I should sin
+To think but nobly of my grandmother:
+Good wombs have borne bad sons.
+_Pros._                       Now the condition.                   120
+This King of Naples, being an enemy
+To me inveterate, hearkens my brother’s suit;
+Which was, that he, in lieu o’ the premises,
+Of homage and I know not how much tribute,
+Should presently extirpate me and mine                             125
+Out of the dukedom, and confer fair Milan,
+With all the honours, on my brother: whereon,
+A treacherous army levied, one midnight
+Fated to the purpose, did Antonio open
+The gates of Milan; and, i’ the dead of darkness,                  130
+The ministers for the purpose hurried thence
+Me and thy crying self.
+_Mir._                Alack, for pity!
+I, not remembering how I cried out then,
+Will cry it o’er again: it is a hint
+That wrings mine eyes to’t.
+_Pros._                   Hear a little further,                   135
+And then I’ll bring thee to the present business
+Which now’s upon ’s; without the which, this story
+Were most impertinent.
+_Mir._               Wherefore did they not
+That hour destroy us?
+_Pros._             Well demanded, wench:
+My tale provokes that question. Dear, they durst not,              140
+So dear the love my people bore me; nor set
+A mark so bloody on the business; but
+With colours fairer painted their foul ends.
