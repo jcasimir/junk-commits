@@ -828,3 +828,4 @@ _Pros._ Come, follow. Speak not for him.    [_Exeunt._
   245: _What_] F1. _Which_ F2 F3 F4.
   248: _made thee_] Ff. _made_ Pope.
   249: _didst_] F3 F4. _did_ F1 F2.
+  264: _and sorceries_] _sorceries too_ Hanmer.
