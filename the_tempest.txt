@@ -800,3 +800,4 @@ _Pros._ Come, follow. Speak not for him.    [_Exeunt._
   173: _princesses_] _princesse_ F1 F2 F3. _princess_ F4.
     _princes_ Rowe. _princess’_ Dyce (S. Walker conj.). See note (III).
   186: [M. sleeps] Theobald.
+  189: SCENE III. Pope.
