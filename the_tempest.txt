@@ -807,3 +807,4 @@ _Pros._ Come, follow. Speak not for him.    [_Exeunt._
   200: _bowsprit_] _bore-sprit_ Ff. _bolt-sprit_ Rowe.
   201: _lightnings_] Theobald. _lightning_ Ff.
   202: _o’ the_] _of_ Pope.
+  _thunder-claps_] _thunder-clap_ Johnson.
