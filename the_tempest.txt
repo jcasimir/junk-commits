@@ -1894,3 +1894,4 @@ _Trin._ Wilt come? I’ll follow, Stephano.    [_Exeunt._
   72: [Beats him.] Rowe.
   84: _there_] _then_ Collier MS.
   89: _nor_] _and_ Pope.
+  93: _deck_] _deck’t_ Hanmer.
