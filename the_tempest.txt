@@ -1566,3 +1566,4 @@ _Ste._ O brave monster! Lead the way.    [_Exeunt._
   135: _weak_] F1. _shallow_ F2 F3 F4.
   138: _island_] F1. _isle_ F2 F3 F4.
   150-154, 157-162, printed as verse by Pope (after Dryden).
+  162: _scamels_] _shamois_ Theobald. _seamalls, stannels_ id. conj.
