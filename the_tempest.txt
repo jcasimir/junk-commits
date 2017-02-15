@@ -1556,3 +1556,4 @@ _Ste._ O brave monster! Lead the way.    [_Exeunt._
   60: _at’s nostrils_] Edd. _at ’nostrils_ F1. _at nostrils_ F2 F3 F4.
     _at his nostrils_ Pope.
   78: _you, cat_] _you Cat_ Ff. _a cat_ Hanmer. _your cat_ Edd. conj.
+  84: _well_] F1 om. F2 F3 F4.
