@@ -1701,3 +1701,4 @@ Much business appertaining.    [_Exit._
   4, 5: _my ... odious_] _my mean task would be As heavy to me as
     ’tis odious_ Pope.
   9: _remove_] _move_ Pope.
+  14: _labours_] _labour_ Hanmer.
