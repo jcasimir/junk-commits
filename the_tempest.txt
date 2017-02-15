@@ -1564,3 +1564,4 @@ _Ste._ O brave monster! Lead the way.    [_Exeunt._
   131: _and thy dog, and thy bush_] _thy dog and bush_ Steevens.
   133: _new_] F1. _the new_ F2 F3 F4.
   135: _weak_] F1. _shallow_ F2 F3 F4.
+  138: _island_] F1. _isle_ F2 F3 F4.
