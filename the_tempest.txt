@@ -1560,3 +1560,4 @@ _Ste._ O brave monster! Lead the way.    [_Exeunt._
   115, 116: Steevens prints as verse, _I’ll ... thy True ... earthly._
   118: _swear, then, how thou escapedst_] _swear then: how escapedst
     thou?_ Pope.
+  119: _Swum_] _Swom_ Ff.
