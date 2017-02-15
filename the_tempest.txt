@@ -1549,3 +1549,4 @@ _Ste._ O brave monster! Lead the way.    [_Exeunt._
   21: _foul_] _full_ Upton conj.
   35: [Thunder] Capell.
   38: _dregs_] _drench_ Collier MS.
+  40: SCENE III. Pope.
