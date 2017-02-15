@@ -1552,3 +1552,4 @@ _Ste._ O brave monster! Lead the way.    [_Exeunt._
   40: SCENE III. Pope.
   [a bottle in his hand] Capell.]
   46: _and Marian_] _Mirian_ Pope.
+  56: _savages_] _salvages_ Ff.
